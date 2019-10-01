@@ -1,2 +1,2 @@
 # Experimental
-this repo is for deploying little pieces of interesting code 
+this repo is for deploying little pieces of interesting beginners code 
