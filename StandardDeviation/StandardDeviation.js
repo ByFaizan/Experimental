@@ -8,7 +8,7 @@ for (var i = 0; i < len; i++) {
 }
 
 var xBar = (sum / len); // to denote mean
-console.log("Mean: " + xBar)
+console.log("Mean: " + xBar) // 72
 
 var xMinusxBarSqd = [];
 for (var i = 0; i < len; i++) {
@@ -23,7 +23,7 @@ for (var i = 0; i < len; i++) {
 // getting the final value
 var sd = Math.sqrt(standardDeviation / len)
 sd = sd.toFixed(2)
-console.log("Standard Deviation: " + sd);
+console.log("Standard Deviation: " + sd); // 12.66
 
 
 
